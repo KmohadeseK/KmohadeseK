@@ -1,4 +1,5 @@
-
+[![](https://visitcount.itsvg.in/api?id=kmohadesek&icon=5&color=3)](https://visitcount.itsvg.in)
+--
 🌼I love learning new things and am learning JavaScript and React .<br><br>📩My email address: mohadesekeshtkar4@gmail.com<br><br>🧩Here you can see all my projects: https://github.com/Mohadese-keshtkar<br><br>🪀You can ask me questions about different books<br> and we can talk about them :)<br>
 
 
@@ -10,8 +11,5 @@
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
----
-[![](https://visitcount.itsvg.in/api?id=kmohadesek&icon=5&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
